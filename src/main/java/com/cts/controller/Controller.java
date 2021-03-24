@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller 
 {
 
-	String SUCCESS="success";
+	String SUCCESS="success1";
 	
 	String ERROR="errors";
 	
